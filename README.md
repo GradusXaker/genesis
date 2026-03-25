@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./banner.svg" alt="genesis banner" width="100%" />
+
   <h1>genesis</h1>
   <p><strong>Центральный архив и рабочая база проекта.</strong> Код, эксперименты и старые наработки собраны в одном месте.</p>
 
